@@ -1,0 +1,25 @@
+1. Data
+    - Data is information
+2. Database:
+    - A place to store the data
+    - Frequent transactions
+    Ex. Oracle, MySQL, SQL Server, DB2, PosgresSQL
+3. Data warehouse:
+    - A place to store large volume of data
+    - Analytical transactions
+    Ex. GCP Bigquery, AWS Redshift, Snowflake
+4. What is Bigquery?
+    - Fully managed data warehouse service provided by google.
+    - It is serverless and low cost.
+    - It is using same infrastructure as google is using.
+    - It can process the petabytes of data in a minutes. (1PB - 1M GB - 1000 TB)
+    - It stores the data in tabular format.
+    - The data can be queries using standard SQL.
+5. How access bigquery?
+    - Via console.
+6. Topics to Cover:
+    - standard SQL
+    - Bigquery Architecture
+7.What is Table?
+8.SELECT and FROM?
+9.WHERE Clause?
