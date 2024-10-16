@@ -1,0 +1,38 @@
+tasks1- (select,concat,sysdate)
+1. Retrive the name, salary, department from employees
+2. Retrive the all the data from the employees table.
+3. List the emp id, name, salary and bonus from the employees table.
+bonus amount is 10% from the salary.
+4. Retrive first name and salary including their commission.
+5. Retrive the employee name (first name + last name) and their job id from employee table.
+6. Display the name, salary, hike (5% from the salary) from employees.
+7. Add '@gmail.com' to all the email id from the employees.
+8. Calculate number of days for all the employees since they joined the company.
+
+tasks2 - (IN, NOT IN, LIKE, NOT LIKE, AND, OR, IS NULL, IS NOT NULL, <, <=, >, >=, =)
+1.List all employees in department 90 with a salary of 3,500.
+2.List employees whose first name is Steven.
+3.List employees from department IDs 30, 50, and 90.
+4.List employees whose department ID is not 80 and job ID does not end with "MAN".
+5.List employees in department ID 80 or job ID ends with "CLERK."
+6.Retrieve first names and salaries of employees receiving commission.
+7.List employees with a salary in commission amount less than 1000.(commission amnt = comm_pct * salary)
+8.List employees whose phone numbers contain "134".
+9.List employees who do not have a manager.
+10.List all employees in department 90 with a salary of 3,500.
+11.List employees who joined between 2003 to 2005.
+12.List employees whose first name starts with 'A' and contains 'e' in their first name.
+13.List employees whose last name ends with 'll'.
+14.List employees working as a 'rep' (job ID contains 'REP').
+15.Increase the salary by one thousand for all employees.
+16.List employees whose salary plus one thousand is less than 5,000.
+17.List employees without commission but with a salary of more than 5,000.
+18.List employees whose phone number doesn't start with zero.
+19.List employees with the last name "King", "Tucker", or "Sully".
+20.List employees with a salary greater than 5,000 whose job ID ends with 'manager'.
+21.List employees from department ID 80 working under manager 147 or manager ID 100.
+22.List employees from department ID 50 whose title is 'manager' with salary greater than 7,000.
+23.List employees in Department ID 100 with a salary less than 7,000 or greater than 8,000.
+24.List employees who joined after 2005 with a salary greater than 6,000, and employees who joined before 2005 with a salary less than 6,000.
+25.List employees not working in Department ID 50,60,80.
+26. List of employees whose manager id is more than or equal to double of the dept id.

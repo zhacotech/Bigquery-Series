@@ -1,0 +1,12 @@
+tasks - analytical functions
+1. Employee details who are getting maximum salary on their departments.
+2. Department id, first max, second max, third max salary of department.
+3. Employees who's getting least salary in their departments.
+4. Department id and list of employee id in their department id. (emp id should be comma separated)
+5. first_name,department_id, salary, max salary of employees in department
+6. Manager id, and list employee id's under manager id in comma separeated format.
+7. Job id wise max and min salary.
+8. managers and max salary of employees under him.
+9. Third max salary for each department id.
+10. Department id and employee name with rank based on the commission pct of employees
+11. Emp id, manager id, count of emp under manager.

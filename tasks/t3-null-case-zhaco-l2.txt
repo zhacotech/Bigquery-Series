@@ -1,0 +1,22 @@
+tasks: (general functions(null))
+1. Display emp name, salary, commission from employees table. give 0.1 pct for employees who dont get any commission.
+2. Display employee details with department id. Assign dep id 100 for employees who dont fall under any department.
+3. Distplay employee details and return commission pct as 0 if they dont get any.
+4. Return emp id, name, phone number and return null if first and last number of phone number is same.
+5. Assign manager id 106 for employees who doesnt have any managers.
+
+
+tasks: (case when and decode)
+1. If emp firstname letter count is even then return its last letter. If odd, return the middle letter of the firstname.
+2. If employee-id and manager-id is between 100 to 120 then return 'same' otherwise return 'na'.
+3. Display employee id, name, sal, comm along with hike, 
+For salary < 2500 and getting commission pct >= 0.15 the hike will be 20% from salary.
+For salary between 2500 and 5000, hike is 15% from salary.
+For salary > 5000, hike is 0,
+4. Change if emp first letter is "S" to "X", and "P" to "K". otherwise keep the name as it is.
+5. In table persons, in gender column change all the "F" into "M" and all the "M" into "F".
+6. Display emp id, name, hire date and decade column where if emp joined between 2000 and 2005 then it should be 2005, If joined between 2005 and 2010 it should be 2010, if joined after 2010 it should be 2020.
+7. Display emp id, salary, department_id.
+For employees in dept id 30,40,60 add 1000 to salary.
+FOr employees in dept id 100 , add 4000 to the salary.
+

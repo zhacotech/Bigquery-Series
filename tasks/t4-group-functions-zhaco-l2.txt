@@ -1,0 +1,16 @@
+tasks: (GROUP BY, HAVING)
+1. Maximum salary of employee table.
+2. Maximum salary of each department.
+3. Number of employees in each job id 
+4. Count of employees in each department who's salary is 5000.
+5. List of employees who's having similer first name.
+6. Average salary of each department.
+7. Sum of amount spend on salaries for all the departemnts
+8. List managers who's having more than 3 employees under him.
+9. Count of employees who joined on 'MONDAY'.
+10. Year wise count of employees.
+11. Month wise count of employees.
+12. List of job id's which having more than 3 employees with similer job id.
+13. Recently joined date of employee from each deparments
+14. Count of employees from each department who's getting commission_pct
+15. List of salaries which more than 2 employees get the same.

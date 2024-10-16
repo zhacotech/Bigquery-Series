@@ -1,0 +1,38 @@
+tasks3- SRF (case and char manipulation functions)
+1. List the employees whose first name's first letter and last letter are same.
+2. Extract user name from the 'zhacotech@gmail.com'.(op - zhacotech)
+3. Extract the domain from the mail id 'zhacotech@gmail.com'.(op - gmail)
+4. Count the number of 'a' in first name.
+5. return the employee details count of 'a' in first name and last name are same.
+6. remove dots from the phone number in employee table.
+7. Apart from first 3 letters from first name, hide everything with '*'. (ex: 'Steven' -> 'Ste***', 'Neena' -> 'Nee**')
+8. Concat the first letter from first name and last name with employeeid. (ex: Steven, King, 100 --> SK100)
+9. Change leading and training spaces into '*' from '    zhaco    '.
+10. write a query to return the 'zhacohcte' from 'zhacotech'.
+11. Input is 'zhaco tech', expected output is 'Zhaco Tech'.
+12. Remove all the 'a' from the first name from employees.
+13. Return employee details whose first name and last name letter's count is same.
+14. Return emp id and name. Name should contains both first and last name. First letter of name should be in capital and remaining should be in small case.
+15. Input is '  Hello World  ', expected output is 'Hello World'.
+16. Input is 'zhaco',expected output is 'hzaco'.
+17. Display the employee details whose letters of first name is less than 4.
+
+tasks4- SRF (date and number functions)
+1. List of employees who joined on 'Monday'.
+2. List of employees who joined on leap years.
+3. List of employees who joined on non leap years.
+4. Display emp id, name , joining date and their overall experience in years, months and days. Values should be in whole number.
+5. What is last day of current month.
+6. Employees who joined on 2003 and 2005.
+7. round the following number '688.65473' to its 3rd decimal.
+8. What is current day of the week.
+9. What is the last date of previous month.
+10. What is the DAY of next year's first day.
+11. What is the last day of next month.
+12. What is first day of employees joining month.(hire date)
+13. What is the first day of current month.
+14. What is the first day of previous year.
+15. What is overall earnings of employees from joining date to till date.
+16. How many days are there in current month, last month, and next month.
+17. Number of days employees worked in their first month. (Saturday and sunday leave).
+18. Display the employee name whose letters count are even number. also sort the result by length of name in ascending order.

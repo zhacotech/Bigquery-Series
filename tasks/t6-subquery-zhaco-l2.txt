@@ -1,0 +1,18 @@
+tasks - sub Query
+1. Display all the details from employees table for only the departments from departments table.
+2. Manager details including their salay, department, mail id. You can get manager id from departments table.
+3. Employee details who are getting max salary.
+4. List of employees who are getting min salary in their job ids. get min salary from jobs table.
+5. List of employees who are getting max salary in therie job ids. get max salary from jobs table.
+6. List of departments which operating from US.(departments, locations table)
+7. List departments operating from IN. (departments, locations table)
+8. List of departments operating from 'London'. (departments, locations table)
+9. List of employees who is having more than one job_history. (employees, job_history)
+10.employees who are getting Second maximum salary.
+11. Employee details getting second maximum salary from each department.
+12. Department details where number of employees are more than five.
+13. Employee details who are getting more than the avg salary of their departments.
+14. List of employees who are getting lowest salary in their department.
+15. List of employees from the year, in which more employees had joined.
+16. List the employees with all the details whose first name is same.
+17. Manager name and salary details from employees table.

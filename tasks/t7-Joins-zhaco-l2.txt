@@ -1,0 +1,13 @@
+tasks - joins
+1. Display emp id, emp name, and dept name.
+2. Display emp id, emp name, dept name, city.
+3. Display emp id, name, job title, dept name. (emp, jobs, dept)
+4. Emp id, name, salary , and the diff of emp salary to their job id's max salary.
+5. Emp id, name, department name, city, country, region name.
+6. Region name and count of employees in each region.
+7. Department name with number of employees in each department
+8. Region wise count of employees
+9. List of departments in India.
+10. Employees who are getting more salary than their manager.
+
+11. emp id, emp name, dept name.
